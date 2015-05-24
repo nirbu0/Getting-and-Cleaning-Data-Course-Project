@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 Getting and Cleaning Data Course Repo
 
-## run_Analysis.r Read Me File
+## run_analysis.r Read Me File
 We assume Working Directory has been set to the root directory provided in the exercise.
 
 We initialize environment variables relating to:
