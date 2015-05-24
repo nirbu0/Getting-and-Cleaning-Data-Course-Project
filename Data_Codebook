@@ -1,0 +1,249 @@
+Data Dictionary – Human Activity Recognition Using Smartphones
+User_Id
+Identifies the user performing the test activity.
+
+Acticity Name
+	Describes the Activity during which the specific measurement was done from 6 options:
+		* WALKING
+		* WALKING_UPSTAIRS
+		* WALKING_DOWNSTAIRS
+		* SITTING
+		* STANDING
+		* LAYING
+		
+tbodyAcc-mean()-X
+	Time based body accelerometer measurement for mean value on x-axis.
+
+tbodyAcc-mean()-Y
+	Time based body accelerometer measurement for mean value on y-axis.
+
+tbodyAcc-mean()-Z
+	Time based body accelerometer measurement for mean value on z-axis.
+
+tbodyAcc-std()-X
+	Time based body accelerometer measurement for standard deviation value on x-axis.
+
+tbodyAcc-std()-Y
+	Time based body accelerometer measurement for standard deviation value on y-axis
+
+tbodyAcc-std()-Z
+	Time based body accelerometer measurement for standard deviation value on z-axis.
+
+tGravityAcc-mean()-X
+	Time based gravity accelerometer measurement for mean value on x-axis.
+
+tGravityAcc-mean()-Y
+	Time based Gravity accelerometer measurement for mean value on y-axis.
+
+tGravityAcc-mean()-Z
+	Time based Gravity accelerometer measurement for mean value on z-axis.
+
+tGravityAcc-std()-X
+	Time based Gravity accelerometer measurement for standard deviation value on x-axis.
+
+tGravityAcc-std()-Y
+	Time based Gravity accelerometer measurement for standard deviation value on y-axis.
+
+tGravityAcc-std()-Z
+	Time based Gravity accelerometer measurement for standard deviation value on z-axis.
+
+tbodyAccjerk-mean()-X
+	Time based body accelerometer jerk measurement for mean value on x-axis
+
+tbodyAccjerk-mean()-Y
+	Time based body accelerometer jerk measurement for mean value on y-axis.
+
+tbodyAccjerk-mean()-Z
+	Time based body accelerometer jerk measurement for mean value on z-axis.
+
+tbodyAccjerk-std()-X
+	Time based body accelerometer jerk measurement for standard deviation value on x-axis.
+
+tbodyAccjerk-std()-Y
+	Time based body accelerometer jerk measurement for standard deviation value on y-axis.
+
+tbodyAccjerk-std()-Z
+	Time based body accelerometer jerk measurement for standard deviation value on z-axis.
+
+tbodyGyro-mean()-X
+	Time based body gyroscope measurement for mean value on x-axis.
+
+tbodyGyro-mean()-Y
+	Time based body gyroscope measurement for mean value on y-axis.
+
+tbodyGyro-mean()-Z
+	Time based body gyroscope measurement for mean value on z-axis.
+
+tbodyGyro-std()-X
+	Time based body gyroscope measurement for standard deviation value on x-axis.
+
+tbodyGyro-std()-Y
+	Time based body gyroscope measurement for standard deviation value on y-axis.
+
+tbodyGyro-std()-Z
+	Time based body gyroscope measurement for standard deviation value on z-axis.
+
+tbodyGyrojerk-mean()-X
+	Time based body gyroscope jerk measurement for mean value on x-axis.
+
+tbodyGyrojerk-mean()-Y
+	Time based body gyroscope jerk measurement for mean value on y-axis.
+
+tbodyGyrojerk-mean()-Z
+	Time based body gyroscope jerk measurement for mean value on z-axis.
+
+tbodyGyrojerk-std()-X
+	Time based body gyroscope jerk measurement for standard deviation value on x-axis.
+
+tbodyGyrojerk-std()-Y
+	Time based body gyroscope jerk measurement for standard deviation value on y-axis.
+
+tbodyGyrojerk-std()-Z
+	Time based body gyroscope jerk measurement for standard deviation value on z-axis.
+
+tbodyAccMag-mean()
+	Time based body accelerometer magnitude measurement for mean value.
+
+tbodyAccMag-std()
+	Time based body accelerometer magnitude measurement for standard deviation value.
+
+tGravityAccMag-mean()
+	Time based Gravity accelerometer magnitude measurement for mean value.
+
+tGravityAccMag-std()
+	Time based Gravity accelerometer magnitude measurement for standard deviation value.
+
+tbodyAccjerkMag-mean()
+	Time based body accelerometer jerk magnitude measurement for mean value.
+
+tbodyAccjerkMag-std()
+	Time based body accelerometer jerk magnitude measurement for standard deviation value.
+
+tbodyGyroMag-mean()
+	Time based body gyroscope magnitude measurement for mean value.
+
+tbodyGyroMag-std()
+	Time based body gyroscope magnitude measurement for standard deviation value.
+
+tbodyGyrojerkMag-mean()
+	Time based body gyroscope jerk magnitude measurement for mean value.
+
+tbodyGyrojerkMag-std()
+	Time based body gyroscope jerk magnitude measurement for standard deviation value.
+
+fbodyAcc-mean()-X
+	FFT Calculated body accelerometer measurement for mean value on x-axis.
+
+fbodyAcc-mean()-Y
+	FFT Calculated body accelerometer measurement for mean value on y-axis.
+
+fbodyAcc-mean()-Z
+	FFT Calculated body accelerometer measurement for mean value on z-axis.
+
+fbodyAcc-std()-X
+	FFT Calculated body accelerometer measurement for standard deviation value on x-axis.
+
+fbodyAcc-std()-Y
+	FFT Calculated body accelerometer measurement for standard deviation value on y-axis.
+
+fbodyAcc-std()-Z
+	FFT Calculated body accelerometer measurement for standard deviation value on z-axis.
+
+fbodyAcc-meanFreq()-X
+	FFT Calculated body accelerometer measurement for meanFreq value on x-axis.
+
+fbodyAcc-meanFreq()-Y
+	FFT Calculated body accelerometer measurement for meanFreq value on y-axis.
+
+fbodyAcc-meanFreq()-Z
+	FFT Calculated body accelerometer measurement for meanFreq value on z-axis.
+
+fbodyAccjerk-mean()-X
+	FFT Calculated body accelerometer linear acceleration and angular velocity measurement for mean value on x-axis.
+
+fbodyAccjerk-mean()-Y
+	FFT Calculated body accelerometer linear acceleration and angular velocity measurement for mean value on y-axis.
+
+fbodyAccjerk-mean()-Z
+	FFT Calculated body accelerometer linear acceleration and angular velocity measurement for mean value on z-axis.
+
+fbodyAccjerk-std()-X
+	FFT Calculated body accelerometer linear acceleration and angular velocity measurement for standard deviation value on x-axis.
+
+fbodyAccjerk-std()-Y
+	FFT Calculated body accelerometer linear acceleration and angular velocity measurement for standard deviation value on y-axis.
+
+fbodyAccjerk-std()-Z
+	FFT Calculated body accelerometer linear acceleration and angular velocity measurement for standard deviation value on z-axis
+
+fbodyAccjerk-meanFreq()-X
+	FFT Calculated body accelerometer linear acceleration and angular velocity measurement for meanFreq value on x-axis.
+
+fbodyAccjerk-meanFreq()-Y
+	FFT Calculated body accelerometer linear acceleration and angular velocity measurement for meanFreq value on y-axis.
+
+fbodyAccjerk-meanFreq()-Z
+	FFT Calculated body accelerometer linear acceleration and angular velocity measurement for meanFreq value on z-axis.
+
+fbodyGyro-mean()-X
+	FFT Calculated body gyroscope measurement for mean value on x-axis.
+
+fbodyGyro-mean()-Y
+	FFT Calculated body gyroscope measurement for mean value on y-axis.
+
+fbodyGyro-mean()-Z
+	FFT Calculated body gyroscope measurement for mean value on z-axis.
+
+fbodyGyro-std()-X
+	FFT Calculated body gyroscope measurement for standard deviation value on x-axis.
+
+fbodyGyro-std()-Y
+	FFT Calculated body gyroscope measurement for standard deviation value on y-axis.
+
+fbodyGyro-std()-Z
+	FFT Calculated body gyroscope measurement for standard deviation value on z-axis.
+
+fbodyGyro-meanFreq()-X
+	FFT Calculated body gyroscope measurement for meanFreq value on x-axis.
+
+fbodyGyro-meanFreq()-Y
+	FFT Calculated body gyroscope measurement for meanFreq value on y-axis.
+
+fbodyGyro-meanFreq()-Z
+	FFT Calculated body gyroscope measurement for meanFreq value on z-axis.
+
+fbodyAccMag-mean()
+	FFT Calculated body accelerometer magnitude measurement for mean value.
+
+fbodyAccMag-std()
+	FFT Calculated body accelerometer magnitude measurement for standard deviation value.
+
+fbodyAccMag-meanFreq()
+	FFT Calculated body accelerometer magnitude measurement for meanFreq value.
+
+fbodybodyAccjerkMag-mean()
+	FFT Calculated body accelerometer linear acceleration and angular velocity magnitude measurement for mean value.
+
+fbodybodyAccjerkMag-std()
+	FFT Calculated body accelerometer linear acceleration and angular velocity magnitude measurement for standard deviation value.
+
+fbodybodyAccjerkMag-meanFreq()
+	FFT Calculated body accelerometer linear acceleration and angular velocity magnitude measurement for meanFreq value.
+
+fbodybodyGyroMag-mean()
+	FFT Calculated body gyroscope magnitude measurement for mean value.
+
+fbodybodyGyroMag-std()
+	FFT Calculated body gyroscope magnitude measurement for standard deviation value.
+
+fbodybodyGyroMag-meanFreq()
+	FFT Calculated body gyroscope magnitude measurement for meanFreq value.
+
+fbodybodyGyrojerkMag-mean()
+	FFT Calculated body gyroscope linear acceleration and angular velocity magnitude measurement for mean value.
+
+fbodybodyGyrojerkMag-std()
+	FFT Calculated body gyroscope linear acceleration and angular velocity magnitude measurement for standard deviation value.
+
+fbodybodyGyrojerkMag-meanFreq()
+	FFT Calculated body gyroscope linear acceleration and angular velocity magnitude measurement for meanFreq value.
